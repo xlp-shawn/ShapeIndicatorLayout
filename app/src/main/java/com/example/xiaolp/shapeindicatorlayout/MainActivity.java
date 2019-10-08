@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private ShapeIndicatorView shapeIndicatorView;
 
+
     private List<ShapeFragment> fragmentList;
     private List<String> titleLists;
 
